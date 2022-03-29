@@ -1,5 +1,5 @@
 import requests
-from gui import *
+from front_end import *
 
 def buscar_dados():
     request  = requests.get("https://economia.awesomeapi.com.br/last/USD-BRL")
