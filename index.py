@@ -8,12 +8,6 @@ def buscar_dados():
     return round(float(brl),2)
 
 
-def conversao_BRL_USD(valor):
-    price = valor/buscar_dados()
-    modificacao = str(price)
-    return modificacao.replace('.',',')
-
-
 def conversao_USD_BRL(valor_func, legenda,legenda2):
     valor = valor_func
     valor = float(valor)

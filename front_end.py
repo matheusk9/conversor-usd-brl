@@ -40,7 +40,4 @@ def editing(main_screen):
 
 
 def button_conversao(main_screen,funcao):
-    ttk.Button(main_screen, text="converter", width=15, command=funcao).place(x=200, y=300)
-    
-
-
+    ttk.Button(main_screen, text="OK", width=15, command=funcao).place(x=200, y=300)
