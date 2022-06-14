@@ -4,10 +4,7 @@ Programa que converte dólar americano em real brasileiro. Nessa aplicação foi
 
 Bibliotecas utilizadas:
 
-Front-end
 > tkinter
-
-Back-end
 >requests
 
 ![Screenshot_3](https://user-images.githubusercontent.com/56278438/160527153-3430a61e-e65a-44e0-b3c6-43467fb2e8e8.png)
